@@ -5,7 +5,7 @@ authors: flaviocopes, MylesBorins, fhemberger, LaRuaNa, ahmadawais
 section: Getting Started
 ---
 
-To uninstall a package you have previously installed **locally** (using `npm install <package-name>` in the `node_modules` folder, run
+To uninstall a package you have previously installed **locally** (using `npm install <package-name>`) in the `node_modules` folder, run
 
 ```sh
 npm uninstall <package-name>
